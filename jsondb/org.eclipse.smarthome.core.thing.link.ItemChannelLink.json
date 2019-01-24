@@ -1,0 +1,3045 @@
+{
+  "network_pingdevice_192_168_0_61_latency -\u003e network:pingdevice:192_168_0_61:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_61",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_61_latency"
+    }
+  },
+  "astro_sun_local_astroDawn_end -\u003e astro:sun:local:astroDawn#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDawn#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDawn_end"
+    }
+  },
+  "astro_sun_local_season_winter -\u003e astro:sun:local:season#winter": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "season#winter"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_season_winter"
+    }
+  },
+  "network_pingdevice_192_168_0_200_lastseen -\u003e network:pingdevice:192_168_0_200:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_200",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_200_lastseen"
+    }
+  },
+  "astro_sun_local_eclipse_ring -\u003e astro:sun:local:eclipse#ring": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eclipse#ring"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eclipse_ring"
+    }
+  },
+  "network_pingdevice_192_168_0_112_lastseen -\u003e network:pingdevice:192_168_0_112:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_112",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_112_lastseen"
+    }
+  },
+  "astro_sun_local_season_name -\u003e astro:sun:local:season#name": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "season#name"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_season_name"
+    }
+  },
+  "astro_sun_local_nauticDusk_duration -\u003e astro:sun:local:nauticDusk#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDusk#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDusk_duration"
+    }
+  },
+  "network_pingdevice_192_168_0_100_latency -\u003e network:pingdevice:192_168_0_100:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_100",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_100_latency"
+    }
+  },
+  "astro_sun_local_rise_start -\u003e astro:sun:local:rise#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "rise#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_rise_start"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_title -\u003e kodi:kodi:192_168_0_111_9090:title": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "title"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_title"
+    }
+  },
+  "astro_moon_local_apogee_event -\u003e astro:moon:local:apogee#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "apogee#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_apogee_event"
+    }
+  },
+  "astro_sun_local_eclipse_partial -\u003e astro:sun:local:eclipse#partial": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eclipse#partial"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eclipse_partial"
+    }
+  },
+  "network_pingdevice_192_168_0_60_online -\u003e network:pingdevice:192_168_0_60:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_60",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_60_online"
+    }
+  },
+  "yahooweather_weather_Weather_Information_temperature -\u003e yahooweather:weather:Weather_Information:temperature": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "yahooweather",
+          "weather",
+          "Weather_Information",
+          "temperature"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "yahooweather_weather_Weather_Information_temperature"
+    }
+  },
+  "network_pingdevice_192_168_0_1_online -\u003e network:pingdevice:192_168_0_1:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_1",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_1_online"
+    }
+  },
+  "astro_sun_local_civilDusk_end -\u003e astro:sun:local:civilDusk#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDusk#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDusk_end"
+    }
+  },
+  "astro_sun_local_rise_end -\u003e astro:sun:local:rise#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "rise#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_rise_end"
+    }
+  },
+  "astro_sun_local_nauticDusk_end -\u003e astro:sun:local:nauticDusk#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDusk#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDusk_end"
+    }
+  },
+  "network_pingdevice_192_168_0_50_latency -\u003e network:pingdevice:192_168_0_50:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_50",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_50_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_253_lastseen -\u003e network:pingdevice:192_168_0_253:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_253",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_253_lastseen"
+    }
+  },
+  "network_pingdevice_192_168_0_113_online -\u003e network:pingdevice:192_168_0_113:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_113",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_113_online"
+    }
+  },
+  "astro_moon_local_rise_start -\u003e astro:moon:local:rise#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "rise#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_rise_start"
+    }
+  },
+  "astro_sun_local_eveningNight_end -\u003e astro:sun:local:eveningNight#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eveningNight#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eveningNight_end"
+    }
+  },
+  "astro_sun_local_astroDusk_event -\u003e astro:sun:local:astroDusk#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDusk#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDusk_event"
+    }
+  },
+  "network_pingdevice_192_168_0_155_online -\u003e network:pingdevice:192_168_0_155:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_155",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_155_online"
+    }
+  },
+  "astro_sun_local_zodiac_sign -\u003e astro:sun:local:zodiac#sign": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "zodiac#sign"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_zodiac_sign"
+    }
+  },
+  "astro_moon_local_phase_name -\u003e astro:moon:local:phase#name": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#name"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_name"
+    }
+  },
+  "astro_sun_local_radiation_diffuse -\u003e astro:sun:local:radiation#diffuse": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "radiation#diffuse"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_radiation_diffuse"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_volume -\u003e kodi:kodi:192_168_0_111_9090:volume": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "volume"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_volume"
+    }
+  },
+  "network_pingdevice_192_168_0_254_latency -\u003e network:pingdevice:192_168_0_254:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_254",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_254_latency"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_mute -\u003e kodi:kodi:192_168_0_111_9090:mute": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "mute"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_mute"
+    }
+  },
+  "network_pingdevice_192_168_0_1_latency -\u003e network:pingdevice:192_168_0_1:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_1",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_1_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_155_lastseen -\u003e network:pingdevice:192_168_0_155:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_155",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_155_lastseen"
+    }
+  },
+  "astro_moon_local_distance_event -\u003e astro:moon:local:distance#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "distance#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_distance_event"
+    }
+  },
+  "yahooweather_weather_Weather_Information_humidity -\u003e yahooweather:weather:Weather_Information:humidity": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "yahooweather",
+          "weather",
+          "Weather_Information",
+          "humidity"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "yahooweather_weather_Weather_Information_humidity"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_album -\u003e kodi:kodi:192_168_0_111_9090:album": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "album"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_album"
+    }
+  },
+  "network_pingdevice_192_168_0_100_online -\u003e network:pingdevice:192_168_0_100:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_100",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_100_online"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_thumbnail -\u003e kodi:kodi:192_168_0_111_9090:thumbnail": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "thumbnail"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_thumbnail"
+    }
+  },
+  "network_pingdevice_192_168_0_200_online -\u003e network:pingdevice:192_168_0_200:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_200",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_200_online"
+    }
+  },
+  "astro_sun_local_eclipse_total -\u003e astro:sun:local:eclipse#total": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eclipse#total"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eclipse_total"
+    }
+  },
+  "astro_sun_local_eveningNight_duration -\u003e astro:sun:local:eveningNight#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eveningNight#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eveningNight_duration"
+    }
+  },
+  "astro_sun_local_eclipse_event -\u003e astro:sun:local:eclipse#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eclipse#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eclipse_event"
+    }
+  },
+  "network_pingdevice_192_168_0_201_online -\u003e network:pingdevice:192_168_0_201:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_201",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_201_online"
+    }
+  },
+  "astro_sun_local_nauticDusk_event -\u003e astro:sun:local:nauticDusk#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDusk#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDusk_event"
+    }
+  },
+  "astro_sun_local_zodiac_end -\u003e astro:sun:local:zodiac#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "zodiac#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_zodiac_end"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_stop -\u003e kodi:kodi:192_168_0_111_9090:stop": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "stop"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_stop"
+    }
+  },
+  "network_pingdevice_192_168_0_100_lastseen -\u003e network:pingdevice:192_168_0_100:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_100",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_100_lastseen"
+    }
+  },
+  "astro_sun_local_season_summer -\u003e astro:sun:local:season#summer": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "season#summer"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_season_summer"
+    }
+  },
+  "network_pingdevice_192_168_0_112_online -\u003e network:pingdevice:192_168_0_112:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_112",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_112_online"
+    }
+  },
+  "astro_sun_local_eveningNight_start -\u003e astro:sun:local:eveningNight#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eveningNight#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eveningNight_start"
+    }
+  },
+  "yahooweather_weather_Weather_Information_pressure -\u003e yahooweather:weather:Weather_Information:pressure": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "yahooweather",
+          "weather",
+          "Weather_Information",
+          "pressure"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "yahooweather_weather_Weather_Information_pressure"
+    }
+  },
+  "network_pingdevice_192_168_0_50_online -\u003e network:pingdevice:192_168_0_50:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_50",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_50_online"
+    }
+  },
+  "astro_sun_local_night_event -\u003e astro:sun:local:night#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "night#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_night_event"
+    }
+  },
+  "astro_moon_local_phase_firstQuarter -\u003e astro:moon:local:phase#firstQuarter": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#firstQuarter"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_firstQuarter"
+    }
+  },
+  "astro_moon_local_perigee_event -\u003e astro:moon:local:perigee#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "perigee#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_perigee_event"
+    }
+  },
+  "astro_sun_local_astroDusk_start -\u003e astro:sun:local:astroDusk#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDusk#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDusk_start"
+    }
+  },
+  "astro_sun_local_night_start -\u003e astro:sun:local:night#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "night#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_night_start"
+    }
+  },
+  "network_pingdevice_192_168_0_62_latency -\u003e network:pingdevice:192_168_0_62:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_62",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_62_latency"
+    }
+  },
+  "astro_sun_local_astroDusk_end -\u003e astro:sun:local:astroDusk#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDusk#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDusk_end"
+    }
+  },
+  "astro_moon_local_phase_new -\u003e astro:moon:local:phase#new": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#new"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_new"
+    }
+  },
+  "astro_sun_local_civilDawn_start -\u003e astro:sun:local:civilDawn#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDawn#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDawn_start"
+    }
+  },
+  "network_servicedevice_192_168_0_100_80_online -\u003e network:servicedevice:192_168_0_100_80:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_100_80",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_100_80_online"
+    }
+  },
+  "network_pingdevice_192_168_0_151_online -\u003e network:pingdevice:192_168_0_151:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_151",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_151_online"
+    }
+  },
+  "network_pingdevice_192_168_0_67_lastseen -\u003e network:pingdevice:192_168_0_67:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_67",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_67_lastseen"
+    }
+  },
+  "astro_sun_local_morningNight_duration -\u003e astro:sun:local:morningNight#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "morningNight#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_morningNight_duration"
+    }
+  },
+  "network_pingdevice_192_168_0_61_lastseen -\u003e network:pingdevice:192_168_0_61:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_61",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_61_lastseen"
+    }
+  },
+  "astro_sun_local_set_event -\u003e astro:sun:local:set#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "set#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_set_event"
+    }
+  },
+  "astro_moon_local_phase_event -\u003e astro:moon:local:phase#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_event"
+    }
+  },
+  "astro_sun_local_noon_event -\u003e astro:sun:local:noon#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "noon#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_noon_event"
+    }
+  },
+  "astro_sun_local_daylight_event -\u003e astro:sun:local:daylight#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "daylight#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_daylight_event"
+    }
+  },
+  "astro_sun_local_daylight_start -\u003e astro:sun:local:daylight#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "daylight#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_daylight_start"
+    }
+  },
+  "astro_moon_local_distance_distance -\u003e astro:moon:local:distance#distance": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "distance#distance"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_distance_distance"
+    }
+  },
+  "astro_sun_local_rise_duration -\u003e astro:sun:local:rise#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "rise#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_rise_duration"
+    }
+  },
+  "astro_sun_local_nauticDawn_event -\u003e astro:sun:local:nauticDawn#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDawn#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDawn_event"
+    }
+  },
+  "network_pingdevice_192_168_0_1_lastseen -\u003e network:pingdevice:192_168_0_1:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_1",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_1_lastseen"
+    }
+  },
+  "astro_moon_local_phase_ageDegree -\u003e astro:moon:local:phase#ageDegree": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#ageDegree"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_ageDegree"
+    }
+  },
+  "astro_moon_local_distance_date -\u003e astro:moon:local:distance#date": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "distance#date"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_distance_date"
+    }
+  },
+  "astro_sun_local_nauticDawn_start -\u003e astro:sun:local:nauticDawn#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDawn#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDawn_start"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_shownotification -\u003e kodi:kodi:192_168_0_111_9090:shownotification": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "shownotification"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_shownotification"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_mediatype -\u003e kodi:kodi:192_168_0_111_9090:mediatype": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "mediatype"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_mediatype"
+    }
+  },
+  "network_pingdevice_192_168_0_111_latency -\u003e network:pingdevice:192_168_0_111:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_111",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_111_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_113_latency -\u003e network:pingdevice:192_168_0_113:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_113",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_113_latency"
+    }
+  },
+  "astro_moon_local_position_azimuth -\u003e astro:moon:local:position#azimuth": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "position#azimuth"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_position_azimuth"
+    }
+  },
+  "astro_sun_local_set_start -\u003e astro:sun:local:set#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "set#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_set_start"
+    }
+  },
+  "network_pingdevice_192_168_0_201_lastseen -\u003e network:pingdevice:192_168_0_201:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_201",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_201_lastseen"
+    }
+  },
+  "astro_moon_local_perigee_date -\u003e astro:moon:local:perigee#date": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "perigee#date"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_perigee_date"
+    }
+  },
+  "network_pingdevice_192_168_0_201_latency -\u003e network:pingdevice:192_168_0_201:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_201",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_201_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_111_lastseen -\u003e network:pingdevice:192_168_0_111:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_111",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_111_lastseen"
+    }
+  },
+  "network_pingdevice_192_168_0_113_lastseen -\u003e network:pingdevice:192_168_0_113:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_113",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_113_lastseen"
+    }
+  },
+  "astro_sun_local_position_elevation -\u003e astro:sun:local:position#elevation": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "position#elevation"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_position_elevation"
+    }
+  },
+  "network_pingdevice_192_168_0_120_latency -\u003e network:pingdevice:192_168_0_120:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_120",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_120_latency"
+    }
+  },
+  "astro_sun_local_daylight_duration -\u003e astro:sun:local:daylight#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "daylight#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_daylight_duration"
+    }
+  },
+  "astro_sun_local_civilDusk_event -\u003e astro:sun:local:civilDusk#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDusk#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDusk_event"
+    }
+  },
+  "astro_sun_local_morningNight_start -\u003e astro:sun:local:morningNight#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "morningNight#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_morningNight_start"
+    }
+  },
+  "network_pingdevice_192_168_0_120_lastseen -\u003e network:pingdevice:192_168_0_120:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_120",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_120_lastseen"
+    }
+  },
+  "astro_moon_local_eclipse_total -\u003e astro:moon:local:eclipse#total": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "eclipse#total"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_eclipse_total"
+    }
+  },
+  "astro_sun_local_radiation_total -\u003e astro:sun:local:radiation#total": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "radiation#total"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_radiation_total"
+    }
+  },
+  "network_pingdevice_192_168_0_62_lastseen -\u003e network:pingdevice:192_168_0_62:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_62",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_62_lastseen"
+    }
+  },
+  "network_pingdevice_192_168_0_120_online -\u003e network:pingdevice:192_168_0_120:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_120",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_120_online"
+    }
+  },
+  "astro_sun_local_civilDusk_duration -\u003e astro:sun:local:civilDusk#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDusk#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDusk_duration"
+    }
+  },
+  "network_servicedevice_192_168_0_1_80_online -\u003e network:servicedevice:192_168_0_1_80:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_1_80",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_1_80_online"
+    }
+  },
+  "astro_moon_local_eclipse_partial -\u003e astro:moon:local:eclipse#partial": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "eclipse#partial"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_eclipse_partial"
+    }
+  },
+  "astro_sun_local_civilDawn_event -\u003e astro:sun:local:civilDawn#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDawn#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDawn_event"
+    }
+  },
+  "network_pingdevice_192_168_0_111_online -\u003e network:pingdevice:192_168_0_111:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_111",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_111_online"
+    }
+  },
+  "astro_sun_local_radiation_direct -\u003e astro:sun:local:radiation#direct": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "radiation#direct"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_radiation_direct"
+    }
+  },
+  "network_pingdevice_192_168_0_67_online -\u003e network:pingdevice:192_168_0_67:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_67",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_67_online"
+    }
+  },
+  "network_pingdevice_192_168_0_155_latency -\u003e network:pingdevice:192_168_0_155:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_155",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_155_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_151_latency -\u003e network:pingdevice:192_168_0_151:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_151",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_151_latency"
+    }
+  },
+  "astro_moon_local_apogee_date -\u003e astro:moon:local:apogee#date": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "apogee#date"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_apogee_date"
+    }
+  },
+  "network_pingdevice_192_168_0_253_online -\u003e network:pingdevice:192_168_0_253:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_253",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_253_online"
+    }
+  },
+  "astro_moon_local_set_end -\u003e astro:moon:local:set#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "set#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_set_end"
+    }
+  },
+  "network_servicedevice_192_168_0_1_80_latency -\u003e network:servicedevice:192_168_0_1_80:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_1_80",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_1_80_latency"
+    }
+  },
+  "astro_moon_local_phase_thirdQuarter -\u003e astro:moon:local:phase#thirdQuarter": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#thirdQuarter"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_thirdQuarter"
+    }
+  },
+  "network_pingdevice_192_168_0_254_online -\u003e network:pingdevice:192_168_0_254:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_254",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_254_online"
+    }
+  },
+  "network_pingdevice_192_168_0_61_online -\u003e network:pingdevice:192_168_0_61:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_61",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_61_online"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_inputtext -\u003e kodi:kodi:192_168_0_111_9090:inputtext": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "inputtext"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_inputtext"
+    }
+  },
+  "network_pingdevice_192_168_0_252_latency -\u003e network:pingdevice:192_168_0_252:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_252",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_252_latency"
+    }
+  },
+  "network_pingdevice_192_168_0_253_latency -\u003e network:pingdevice:192_168_0_253:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_253",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_253_latency"
+    }
+  },
+  "astro_sun_local_morningNight_event -\u003e astro:sun:local:morningNight#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "morningNight#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_morningNight_event"
+    }
+  },
+  "astro_moon_local_phase_illumination -\u003e astro:moon:local:phase#illumination": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#illumination"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_illumination"
+    }
+  },
+  "astro_sun_local_noon_start -\u003e astro:sun:local:noon#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "noon#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_noon_start"
+    }
+  },
+  "astro_sun_local_noon_end -\u003e astro:sun:local:noon#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "noon#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_noon_end"
+    }
+  },
+  "network_pingdevice_192_168_0_50_lastseen -\u003e network:pingdevice:192_168_0_50:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_50",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_50_lastseen"
+    }
+  },
+  "astro_sun_local_civilDusk_start -\u003e astro:sun:local:civilDusk#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDusk#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDusk_start"
+    }
+  },
+  "astro_moon_local_rise_end -\u003e astro:moon:local:rise#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "rise#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_rise_end"
+    }
+  },
+  "astro_sun_local_astroDawn_start -\u003e astro:sun:local:astroDawn#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDawn#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDawn_start"
+    }
+  },
+  "network_pingdevice_192_168_0_151_lastseen -\u003e network:pingdevice:192_168_0_151:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_151",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_151_lastseen"
+    }
+  },
+  "astro_sun_local_position_azimuth -\u003e astro:sun:local:position#azimuth": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "position#azimuth"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_position_azimuth"
+    }
+  },
+  "astro_sun_local_night_end -\u003e astro:sun:local:night#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "night#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_night_end"
+    }
+  },
+  "astro_sun_local_nauticDusk_start -\u003e astro:sun:local:nauticDusk#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDusk#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDusk_start"
+    }
+  },
+  "astro_sun_local_rise_event -\u003e astro:sun:local:rise#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "rise#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_rise_event"
+    }
+  },
+  "astro_sun_local_night_duration -\u003e astro:sun:local:night#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "night#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_night_duration"
+    }
+  },
+  "astro_moon_local_set_start -\u003e astro:moon:local:set#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "set#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_set_start"
+    }
+  },
+  "astro_moon_local_apogee_distance -\u003e astro:moon:local:apogee#distance": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "apogee#distance"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_apogee_distance"
+    }
+  },
+  "astro_moon_local_position_shadeLength -\u003e astro:moon:local:position#shadeLength": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "position#shadeLength"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_position_shadeLength"
+    }
+  },
+  "astro_sun_local_daylight_end -\u003e astro:sun:local:daylight#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "daylight#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_daylight_end"
+    }
+  },
+  "astro_sun_local_season_spring -\u003e astro:sun:local:season#spring": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "season#spring"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_season_spring"
+    }
+  },
+  "astro_sun_local_nauticDawn_duration -\u003e astro:sun:local:nauticDawn#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDawn#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDawn_duration"
+    }
+  },
+  "astro_sun_local_eveningNight_event -\u003e astro:sun:local:eveningNight#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "eveningNight#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_eveningNight_event"
+    }
+  },
+  "astro_sun_local_civilDawn_end -\u003e astro:sun:local:civilDawn#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDawn#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDawn_end"
+    }
+  },
+  "network_pingdevice_192_168_0_62_online -\u003e network:pingdevice:192_168_0_62:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_62",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_62_online"
+    }
+  },
+  "astro_sun_local_noon_duration -\u003e astro:sun:local:noon#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "noon#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_noon_duration"
+    }
+  },
+  "network_servicedevice_192_168_0_1_80_lastseen -\u003e network:servicedevice:192_168_0_1_80:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_1_80",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_1_80_lastseen"
+    }
+  },
+  "astro_moon_local_position_elevation -\u003e astro:moon:local:position#elevation": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "position#elevation"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_position_elevation"
+    }
+  },
+  "astro_sun_local_morningNight_end -\u003e astro:sun:local:morningNight#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "morningNight#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_morningNight_end"
+    }
+  },
+  "astro_moon_local_zodiac_sign -\u003e astro:moon:local:zodiac#sign": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "zodiac#sign"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_zodiac_sign"
+    }
+  },
+  "astro_sun_local_civilDawn_duration -\u003e astro:sun:local:civilDawn#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "civilDawn#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_civilDawn_duration"
+    }
+  },
+  "astro_sun_local_nauticDawn_end -\u003e astro:sun:local:nauticDawn#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "nauticDawn#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_nauticDawn_end"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_artist -\u003e kodi:kodi:192_168_0_111_9090:artist": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "artist"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_artist"
+    }
+  },
+  "astro_sun_local_phase_name -\u003e astro:sun:local:phase#name": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "phase#name"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_phase_name"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_control -\u003e kodi:kodi:192_168_0_111_9090:control": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "control"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_control"
+    }
+  },
+  "network_servicedevice_192_168_0_100_80_latency -\u003e network:servicedevice:192_168_0_100_80:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_100_80",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_100_80_latency"
+    }
+  },
+  "astro_sun_local_season_autumn -\u003e astro:sun:local:season#autumn": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "season#autumn"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_season_autumn"
+    }
+  },
+  "astro_sun_local_astroDusk_duration -\u003e astro:sun:local:astroDusk#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDusk#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDusk_duration"
+    }
+  },
+  "network_pingdevice_192_168_0_60_latency -\u003e network:pingdevice:192_168_0_60:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_60",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_60_latency"
+    }
+  },
+  "astro_moon_local_phase_agePercent -\u003e astro:moon:local:phase#agePercent": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#agePercent"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_agePercent"
+    }
+  },
+  "network_pingdevice_192_168_0_60_lastseen -\u003e network:pingdevice:192_168_0_60:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_60",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_60_lastseen"
+    }
+  },
+  "astro_sun_local_astroDawn_duration -\u003e astro:sun:local:astroDawn#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDawn#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDawn_duration"
+    }
+  },
+  "network_pingdevice_192_168_0_252_lastseen -\u003e network:pingdevice:192_168_0_252:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_252",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_252_lastseen"
+    }
+  },
+  "network_pingdevice_192_168_0_254_lastseen -\u003e network:pingdevice:192_168_0_254:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_254",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_254_lastseen"
+    }
+  },
+  "astro_sun_local_zodiac_start -\u003e astro:sun:local:zodiac#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "zodiac#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_zodiac_start"
+    }
+  },
+  "network_pingdevice_192_168_0_252_online -\u003e network:pingdevice:192_168_0_252:online": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_252",
+          "online"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_252_online"
+    }
+  },
+  "astro_sun_local_set_end -\u003e astro:sun:local:set#end": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "set#end"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_set_end"
+    }
+  },
+  "network_servicedevice_192_168_0_100_80_lastseen -\u003e network:servicedevice:192_168_0_100_80:lastseen": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "servicedevice",
+          "192_168_0_100_80",
+          "lastseen"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_servicedevice_192_168_0_100_80_lastseen"
+    }
+  },
+  "network_pingdevice_192_168_0_67_latency -\u003e network:pingdevice:192_168_0_67:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_67",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_67_latency"
+    }
+  },
+  "astro_moon_local_eclipse_event -\u003e astro:moon:local:eclipse#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "eclipse#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_eclipse_event"
+    }
+  },
+  "astro_moon_local_set_event -\u003e astro:moon:local:set#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "set#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_set_event"
+    }
+  },
+  "astro_sun_local_astroDawn_event -\u003e astro:sun:local:astroDawn#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "astroDawn#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_astroDawn_event"
+    }
+  },
+  "astro_sun_local_position_shadeLength -\u003e astro:sun:local:position#shadeLength": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "position#shadeLength"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_position_shadeLength"
+    }
+  },
+  "network_pingdevice_192_168_0_112_latency -\u003e network:pingdevice:192_168_0_112:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_112",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_112_latency"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_fanart -\u003e kodi:kodi:192_168_0_111_9090:fanart": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "fanart"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_fanart"
+    }
+  },
+  "astro_moon_local_phase_age -\u003e astro:moon:local:phase#age": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#age"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_age"
+    }
+  },
+  "network_pingdevice_192_168_0_200_latency -\u003e network:pingdevice:192_168_0_200:latency": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "network",
+          "pingdevice",
+          "192_168_0_200",
+          "latency"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "network_pingdevice_192_168_0_200_latency"
+    }
+  },
+  "astro_moon_local_perigee_distance -\u003e astro:moon:local:perigee#distance": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "perigee#distance"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_perigee_distance"
+    }
+  },
+  "astro_moon_local_phase_full -\u003e astro:moon:local:phase#full": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "phase#full"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_phase_full"
+    }
+  },
+  "astro_sun_local_set_duration -\u003e astro:sun:local:set#duration": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "sun",
+          "local",
+          "set#duration"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_sun_local_set_duration"
+    }
+  },
+  "kodi_kodi_192_168_0_111_9090_showtitle -\u003e kodi:kodi:192_168_0_111_9090:showtitle": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "kodi",
+          "kodi",
+          "192_168_0_111_9090",
+          "showtitle"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "kodi_kodi_192_168_0_111_9090_showtitle"
+    }
+  },
+  "astro_moon_local_rise_event -\u003e astro:moon:local:rise#event": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "rise#event"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_rise_event"
+    }
+  }
+}

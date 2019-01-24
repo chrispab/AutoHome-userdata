@@ -1,0 +1,25 @@
+1517152943861:exit
+1517152948330:quit
+1517153009370:help
+1517153078891:help bundle
+1517153089141:help bundle:stop
+1517153166825:bundle:list | grep openHAB
+1517153188762:logout
+1517153250683:feature:list
+1517153270484:feature:list |grep rrd4j
+1517153402321:logout
+1517153423378:feature:list |grep rrd4j
+1517153433244:feature:install openhab-persistence-rrd4j
+1517153453501:feature:list |grep exec
+1517153467070:feature:install openhab-binding-exec
+1517153484607:feature:list |grep regex
+1517153494499:feature:install openhab-transformation-regex
+1517153508809:feature:install openhab-transformation-exec
+1517153527381:logout
+1517154500828:log:tail
+1517350974067:voice --help
+1517350990738:smarthome:voice voices
+1517351003192:tts --help
+1517351033247:smarthome:voice say Hello world!
+1517353802585:smarthome:voice voices
+1518130371201:log:tail
