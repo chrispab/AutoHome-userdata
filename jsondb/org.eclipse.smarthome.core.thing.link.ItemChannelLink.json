@@ -373,23 +373,6 @@
       "itemName": "network_pingdevice_192_168_0_113_online"
     }
   },
-  "astro_moon_local_rise_start -\u003e astro:moon:local:rise#start": {
-    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
-    "value": {
-      "channelUID": {
-        "segments": [
-          "astro",
-          "moon",
-          "local",
-          "rise#start"
-        ]
-      },
-      "configuration": {
-        "properties": {}
-      },
-      "itemName": "astro_moon_local_rise_start"
-    }
-  },
   "astro_sun_local_eveningNight_end -\u003e astro:sun:local:eveningNight#end": {
     "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
     "value": {
@@ -405,6 +388,23 @@
         "properties": {}
       },
       "itemName": "astro_sun_local_eveningNight_end"
+    }
+  },
+  "astro_moon_local_rise_start -\u003e astro:moon:local:rise#start": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "astro",
+          "moon",
+          "local",
+          "rise#start"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "astro_moon_local_rise_start"
     }
   },
   "astro_sun_local_astroDusk_event -\u003e astro:sun:local:astroDusk#event": {
@@ -1340,6 +1340,23 @@
         "properties": {}
       },
       "itemName": "astro_sun_local_nauticDawn_start"
+    }
+  },
+  "mqtt_topic_59cc3441_dsdsd -\u003e mqtt:topic:59cc3441:dsdsd": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "mqtt",
+          "topic",
+          "59cc3441",
+          "dsdsd"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "mqtt_topic_59cc3441_dsdsd"
     }
   },
   "kodi_kodi_192_168_0_111_9090_shownotification -\u003e kodi:kodi:192_168_0_111_9090:shownotification": {
@@ -2838,6 +2855,23 @@
       "itemName": "astro_moon_local_eclipse_event"
     }
   },
+  "mqtt_topic_59cc3441_Humidity -\u003e mqtt:topic:59cc3441:Humidity": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "mqtt",
+          "topic",
+          "59cc3441",
+          "Humidity"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "mqtt_topic_59cc3441_Humidity"
+    }
+  },
   "astro_moon_local_set_event -\u003e astro:moon:local:set#event": {
     "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
     "value": {
@@ -2938,6 +2972,23 @@
         "properties": {}
       },
       "itemName": "astro_moon_local_phase_age"
+    }
+  },
+  "mqtt_topic_59cc3441_temperate -\u003e mqtt:topic:59cc3441:temperate": {
+    "class": "org.eclipse.smarthome.core.thing.link.ItemChannelLink",
+    "value": {
+      "channelUID": {
+        "segments": [
+          "mqtt",
+          "topic",
+          "59cc3441",
+          "temperate"
+        ]
+      },
+      "configuration": {
+        "properties": {}
+      },
+      "itemName": "mqtt_topic_59cc3441_temperate"
     }
   },
   "network_pingdevice_192_168_0_200_latency -\u003e network:pingdevice:192_168_0_200:latency": {

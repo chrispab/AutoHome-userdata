@@ -2993,7 +2993,7 @@
   "network:pingdevice:192_168_0_60": {
     "class": "org.eclipse.smarthome.core.thing.internal.ThingImpl",
     "value": {
-      "label": "Chris Galaxy S5",
+      "label": "Galaxy S5",
       "channels": [
         {
           "acceptedItemType": "Switch",
@@ -3074,7 +3074,7 @@
       "configuration": {
         "properties": {
           "hostname": "192.168.0.60",
-          "refresh_interval": 60000,
+          "refresh_interval": 60000.0,
           "refreshInterval": 60000,
           "retry": 1,
           "timeout": 5000
@@ -3671,7 +3671,7 @@
   "network:pingdevice:192_168_0_201": {
     "class": "org.eclipse.smarthome.core.thing.internal.ThingImpl",
     "value": {
-      "label": "dev server",
+      "label": "OpenHAB-Virt_server",
       "channels": [
         {
           "acceptedItemType": "Switch",
@@ -3752,7 +3752,7 @@
       "configuration": {
         "properties": {
           "hostname": "192.168.0.201",
-          "refresh_interval": 60000,
+          "refresh_interval": 60000.0,
           "refreshInterval": 60000,
           "retry": 1,
           "timeout": 5000
@@ -3786,7 +3786,7 @@
   "network:pingdevice:192_168_0_200": {
     "class": "org.eclipse.smarthome.core.thing.internal.ThingImpl",
     "value": {
-      "label": "openhab and MQTT server",
+      "label": "Raspberry Pi Server: openhab and MQTT",
       "channels": [
         {
           "acceptedItemType": "Switch",
@@ -3867,7 +3867,7 @@
       "configuration": {
         "properties": {
           "hostname": "192.168.0.200",
-          "refresh_interval": 60000,
+          "refresh_interval": 60000.0,
           "refreshInterval": 60000,
           "retry": 1,
           "timeout": 5000
@@ -3906,10 +3906,10 @@
       "configuration": {
         "properties": {
           "publickeypin": true,
-          "clientid": "paho139478002652",
+          "clientid": "paho123864848056",
           "lastwill_qos": 0,
           "qos": 0,
-          "retain": true,
+          "retain": false,
           "host": "192.168.0.200",
           "secure": false,
           "certificatepin": true,
@@ -5631,6 +5631,120 @@
           "moon"
         ]
       }
+    }
+  },
+  "mqtt:topic:59cc3441": {
+    "class": "org.eclipse.smarthome.core.thing.internal.ThingImpl",
+    "value": {
+      "label": "Garage Sensor-MQTT Thing",
+      "bridgeUID": {
+        "segments": [
+          "mqtt",
+          "broker",
+          "bd2b91fd"
+        ]
+      },
+      "channels": [
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "mqtt",
+              "topic",
+              "59cc3441",
+              "dsdsd"
+            ]
+          },
+          "channelTypeUID": {
+            "segments": [
+              "mqtt",
+              "string"
+            ]
+          },
+          "label": "garage sensor state",
+          "configuration": {
+            "properties": {
+              "stateTopic": "GRG_Sensor/tele/STATE",
+              "transformationPattern": "JSONPATH:$.POWER"
+            }
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "mqtt",
+              "topic",
+              "59cc3441",
+              "temperate"
+            ]
+          },
+          "channelTypeUID": {
+            "segments": [
+              "mqtt",
+              "string"
+            ]
+          },
+          "label": "Garage Temperature",
+          "configuration": {
+            "properties": {
+              "stateTopic": "GRG_Sensor/tele/SENSOR",
+              "transformationPattern": "JSONPATH:$.AM2301.Temperature"
+            }
+          },
+          "properties": {},
+          "defaultTags": []
+        },
+        {
+          "acceptedItemType": "String",
+          "kind": "STATE",
+          "uid": {
+            "segments": [
+              "mqtt",
+              "topic",
+              "59cc3441",
+              "Humidity"
+            ]
+          },
+          "channelTypeUID": {
+            "segments": [
+              "mqtt",
+              "string"
+            ]
+          },
+          "label": "Humidity",
+          "configuration": {
+            "properties": {
+              "stateTopic": "GRG_Sensor/tele/SENSOR",
+              "transformationPattern": "JSONPATH:$.AM2301.Humidity"
+            }
+          },
+          "properties": {},
+          "defaultTags": []
+        }
+      ],
+      "configuration": {
+        "properties": {}
+      },
+      "properties": {},
+      "uid": {
+        "segments": [
+          "mqtt",
+          "topic",
+          "59cc3441"
+        ]
+      },
+      "thingTypeUID": {
+        "segments": [
+          "mqtt",
+          "topic"
+        ]
+      },
+      "location": "Garage"
     }
   },
   "network:pingdevice:192_168_0_100": {
